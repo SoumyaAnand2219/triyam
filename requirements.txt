@@ -1,0 +1,9 @@
+ streamlit
+ pandas
+ numpy
+ pyotp
+ plotly
+ ta
+ smartapi-python
+ logzero
+websocket-client
